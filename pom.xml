@@ -357,7 +357,7 @@
                         </resource>
                         <resource>
                             <directory>asserts/dist</directory>
-                            <targetPath>WEB-INF/public</targetPath>
+                            <targetPath>WEB-INF</targetPath>
                         </resource>
                     </webResources>
                 </configuration>
@@ -415,7 +415,7 @@
                 <configuration>
                     <filesets>
                         <fileset>
-                            <directory>src/main/webapp/WEB-INF/public</directory>
+                            <directory>src/main/webapp/WEB-INF</directory>
                         </fileset>
                     </filesets>
                 </configuration>
